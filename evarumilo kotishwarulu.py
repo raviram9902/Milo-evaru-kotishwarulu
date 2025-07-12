@@ -3,9 +3,10 @@ questions = [
     ["Which planet is known as the Red Planet?", "Mars"],
     ["How many states are there in India?", "28"],
     ["Who wrote the national anthem of India?", "Rabindranath Tagore"]
+    ["Which is the largest ocean in the world?", "Pacific Ocean"]
 ]
 
-Moneyearned = [100, 1000, 10000, 100000]
+Moneyearned = [100, 1000, 10000, 100000,10000000]
 winnings = 0
 
 print(" Welcome to Evaru Meelo Kotiswarulu \n")
