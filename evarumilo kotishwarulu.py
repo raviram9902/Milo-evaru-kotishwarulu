@@ -2,7 +2,7 @@ questions = [
     ["What is the capital of India?", "Delhi"],
     ["Which planet is known as the Red Planet?", "Mars"],
     ["How many states are there in India?", "28"],
-    ["Who wrote the national anthem of India?", "Rabindranath Tagore"]
+    ["Who wrote the national anthem of India?", "Rabindranath Tagore"],
     ["Which is the largest ocean in the world?", "Pacific Ocean"]
 ]
 
